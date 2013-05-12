@@ -1,0 +1,7 @@
+name: bukkit-maracuja
+main: net.somepixels.BukkitMaracujaPlugin
+version: 0.0.1
+commands:
+  goodboy:
+    description: Calm all your dogs down.
+    usage: /<goodboy>
